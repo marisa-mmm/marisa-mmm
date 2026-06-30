@@ -1,4 +1,6 @@
-# Hi there, I'm Marisa Menezes! 👋 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=echo+%22Hello%2C+World!%22;Initializing+Marisa's+Profile...;AI+%2F+ML+Intern+%40+Infosys+Springboard;Building+Intelligent+Solutions...;Let's+innovate+together!🚀" alt="Typing SVG" />
+</p>
 
 🚀 **Aspiring Software & AI Engineer** | AI/ML Intern at Infosys Springboard & IBM / Bharat Cares
 🎓 Third-Year Computer Science Student at Xavier Institute of Engineering
