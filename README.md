@@ -57,7 +57,7 @@
 ---
 
 ## 📬 Let's Connect!
-![Visitors](https://komarev.com/ghvc/?username=marisa-mmm&color=green&style=flat-square)
+
 * **Email:** marisamaryanmenezes@gmail.com
 * **LinkedIn:** [www.linkedin.com/in/marisa-menezes-7a1312245]
 * **GitHub:** You are already here! Feel free to explore my repositories and star ⭐ the projects you like!
