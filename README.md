@@ -36,7 +36,7 @@
 * **Concept:** A web platform built to authenticate digital media and mitigate misinformation by flagging deepfakes across images, video, and audio format uploads.
 * **Tech Stack:** `Gemini API`, `Python`, `n8n Automation`
 * **Hackathon:** Developed and presented within 36 hours for the Hackanova 5.0 National Hackathon.
-* [🔗 View Live Project](https://dist-theta-dusky-58.vercel.app)[cite: 1]
+* [🔗 View Live Project](https://dist-theta-dusky-58.vercel.app)
 
 ### 📞 DeskDirect (VoIP Platform)
 * **Concept:** A secure, zero-latency peer-to-peer voice platform engineered specifically for financial traders to eliminate tab-switching delays.
