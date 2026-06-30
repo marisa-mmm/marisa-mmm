@@ -45,10 +45,8 @@
 
 ## 📊 My GitHub Analytics
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=marisa-mmm&show_icons=true&theme=radical" alt="Marisa's GitHub Stats" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisa-mmm&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
-</p>
+🛸 **My Contribution Graph:**
+![](https://github-readme-activity-graph.vercel.app/graph?username=marisa-mmm&theme=react-dark)
 
 ## 📬 Let's Connect!
 
