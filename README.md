@@ -28,23 +28,23 @@
 
 ## 🏆 Featured Projects
 
-### 🚨 Lokrakshak (Crowd Management SDK)
-* **Concept:** A real-time crowd monitoring and automated response system inspired by the Elphinstone Road stampede. It prevents fatal stampedes via citizen SOS buttons and an RPF live dashboard.
-* **Tech Stack:** `React`, `HTML`, `CSS`, `Python`, `n8n Automation`.
-* **Achievement:** **HackX 2.0 Top 5 Domain Finish** 🏅
-* [🔗 View Live Project](https://lokrakshak.vercel.app)
+<details>
+<summary>🚨 <b>Lokrakshak (Crowd Management SDK)</b> - <i>Click to expand</i></summary>
 
-### 🛡️ UNNATI (AI Guardian)
-* **Concept:** A web platform built to authenticate digital media and mitigate misinformation by flagging deepfakes across images, video, and audio format uploads.
-* **Tech Stack:** `Gemini API`, `Python`, `n8n Automation`
-* **Hackathon:** Developed and presented within 36 hours for the Hackanova 5.0 National Hackathon.
-* [🔗 View Live Project](https://dist-theta-dusky-58.vercel.app)
+* **Concept:** A real-time crowd monitoring and automated response system inspired by the Elphinstone Road stampede.
+* **Tech Stack:** `React`, `HTML`, `CSS`, `Python`, `n8n Automation`[cite: 1]
+* **Achievement:** **HackX 2.0 Top 5 Domain Finish** 🏅[cite: 1]
+* [🔗 View Live Project](https://lokrakshak.vercel.app)[cite: 1]
+</details>
 
-### 📞 DeskDirect (VoIP Platform)
-* **Concept:** A secure, zero-latency peer-to-peer voice platform engineered specifically for financial traders to eliminate tab-switching delays.
-* **Tech Stack:** `WebRTC`, `UDP`, `Node.js`, `JavaScript`
-* [🔗 View Live Project](https://stupendous-hotteok-4c12a8.netlify.app/dashboard)
+<details>
+<summary>🛡️ <b>UNNATI (AI Guardian)</b> - <i>Click to expand</i></summary>
 
+* **Concept:** A web platform built to authenticate digital media and flag deepfakes across images, video, and audio[cite: 1].
+* **Tech Stack:** `Gemini API`, `Python`, `n8n Automation`[cite: 1]
+* **Hackathon:** Developed within 36 hours for the Hackanova 5.0 National Hackathon[cite: 1].
+* [🔗 View Live Project](https://dist-theta-dusky-58.vercel.app)[cite: 1]
+</details>
 ## 📊 My GitHub Analytics
 
 🛸 **My Contribution Graph:**
