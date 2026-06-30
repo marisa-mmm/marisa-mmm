@@ -1,11 +1,11 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=echo+%22Hello%2C+World!%22;Initializing+Marisa's+Profile...;AI+%2F+ML+Intern+%40+Infosys+Springboard;Building+Intelligent+Solutions...;Let's+innovate+together!🚀" alt="Typing SVG" />
-</p>
+# Hi there, I'm Marisa Menezes! 👋 
 
 🚀 **Aspiring Software & AI Engineer** | AI/ML Intern at Infosys Springboard & IBM / Bharat Cares
 🎓 Third-Year Computer Science Student at Xavier Institute of Engineering
 
-> I am a passionate developer with a strong foundation in programming, web development, and automation pipelines. I love building smart, real-world software solutions that make an impact.
+> I am a passionate developer with a strong foundation in programming, web development, and automation pipelines[cite: 1]. I love building smart, real-world software solutions that make an impact[cite: 1].
+
+---
 
 ## 🛠️ Tech Stack & Tools
 
@@ -26,18 +26,20 @@
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
 ## 🏆 Featured Projects
 
 ### 🚨 Lokrakshak (Crowd Management SDK)
-* **Concept:** A real-time crowd monitoring and automated response system inspired by the Elphinstone Road stampede.
+* **Concept:** A real-time crowd monitoring and automated response system inspired by the Elphinstone Road stampede[cite: 1].
 * **Tech Stack:** `React`, `HTML`, `CSS`, `Python`, `n8n Automation`
 * **Achievement:** **HackX 2.0 Top 5 Domain Finish** 🏅
 * [🔗 View Live Project](https://lokrakshak.vercel.app)
 
 ### 🛡️ UNNATI (AI Guardian)
-* **Concept:** A web platform built to authenticate digital media and flag deepfakes across images, video, and audio.
+* **Concept:** A web platform built to authenticate digital media and flag deepfakes across images, video, and audio format uploads.
 * **Tech Stack:** `Gemini API`, `Python`, `n8n Automation`
-* **Hackathon:** Developed within 36 hours for the Hackanova 5.0 National Hackathon.
+* **Hackathon:** Developed and presented within 36 hours for the Hackanova 5.0 National Hackathon.
 * [🔗 View Live Project](https://dist-theta-dusky-58.vercel.app)
 
 ### 📞 DeskDirect (VoIP Platform)
@@ -45,13 +47,17 @@
 * **Tech Stack:** `WebRTC`, `UDP`, `Node.js`, `JavaScript`
 * [🔗 View Live Project](https://stupendous-hotteok-4c12a8.netlify.app/dashboard)
 
+---
+
 ## 📊 My GitHub Analytics
 
 🛸 **My Contribution Graph:**
 ![](https://github-readme-activity-graph.vercel.app/graph?username=marisa-mmm&theme=react-dark)
 
+---
+
 ## 📬 Let's Connect!
 
-* **Email:** marisamaryanmenezes@gmail.com
+* **Email:** marisamaryanmenezes@gmail.com[cite: 1]
 * **LinkedIn:** [www.linkedin.com/in/marisa-menezes-7a1312245]
 * **GitHub:** You are already here! Feel free to explore my repositories and star ⭐ the projects you like!
