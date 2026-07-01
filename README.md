@@ -65,10 +65,9 @@
 
 ---
 
-## 📊 My GitHub Analytics
-
 🛸 **My Contribution Graph:**
-![](https://github-readme-activity-graph.vercel.app/graph?username=marisa-mmm&theme=react-dark)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=marisa-mmm&theme=react-dark&custom_title=My+Contribution+Graph)
 
 ---
 
