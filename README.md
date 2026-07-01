@@ -1,9 +1,11 @@
 # Hi there, I'm Marisa Menezes! 👋 
 
-🚀 **Aspiring Software & AI Engineer** | AI/ML Intern at Infosys Springboard & IBM / Bharat Cares
+🚀 **Aspiring Software & AI Engineer | AI Enthusiast**
+📍 Mumbai, Maharashtra, India
+💼 AI/ML Intern at Infosys Springboard & IBM / Bharat Cares
 🎓 Third-Year Computer Science Student at Xavier Institute of Engineering
 
-> I am a passionate developer with a strong foundation in programming, web development, and automation pipelines[cite: 1]. I love building smart, real-world software solutions that make an impact[cite: 1].
+> I am a passionate developer with a strong foundation in programming, web development, and automation pipelines. I love building smart, real-world software solutions that make an impact.
 
 ---
 
@@ -28,24 +30,35 @@
 
 ---
 
+## 💼 Experience & Leadership
+
+### 🛠️ Technical Internships
+* 🤖 **AI/ML Intern** | Infosys Springboard *(Executing AI workflows and practical Python scripting)*
+* 🧠 **AI Automation Intern** | IBM / Bharat Cares *(Specializing in Agentic AI architectures and workflows)*
+
+### 🚀 E-Cell, IIT Bombay
+* 🎖️ **Campus Ambassador**
+
+### 🎓 Xavier Institute of Engineering
+* 📣 **Publicity Member** | CSI Committee
+* 📅 **Event Manager Head** | WDC
+* 🏨 **Hospitality Mod** | Student Council
+
+---
+
 ## 🏆 Featured Projects
 
-### 🚨 Lokrakshak (Crowd Management SDK)
-* **Concept:** A real-time crowd monitoring and automated response system inspired by the Elphinstone Road stampede[cite: 1].
-* **Tech Stack:** `React`, `HTML`, `CSS`, `Python`, `n8n Automation`
-* **Achievement:** **HackX 2.0 Top 5 Domain Finish** 🏅
-* [🔗 View Live Project](https://lokrakshak.vercel.app)
-
-### 🛡️ UNNATI (AI Guardian)
-* **Concept:** A web platform built to authenticate digital media and flag deepfakes across images, video, and audio format uploads.
-* **Tech Stack:** `Gemini API`, `Python`, `n8n Automation`
-* **Hackathon:** Developed and presented within 36 hours for the Hackanova 5.0 National Hackathon.
-* [🔗 View Live Project](https://dist-theta-dusky-58.vercel.app)
-
-### 📞 DeskDirect (VoIP Platform)
-* **Concept:** A secure, zero-latency peer-to-peer voice platform engineered specifically for financial traders to eliminate tab-switching delays.
-* **Tech Stack:** `WebRTC`, `UDP`, `Node.js`, `JavaScript`
-* [🔗 View Live Project](https://stupendous-hotteok-4c12a8.netlify.app/dashboard)
+* 🚨 **Lokrakshak (Crowd Management SDK):** Real-time monitoring platform to prevent stampedes via SOS triggers and dashboards.
+* `React`, `Python`, `n8n`
+* [Live Demo](https://lokrakshak.vercel.app)
+  
+* 🛡️ **UNNATI (AI Guardian):** Media authentication app built in 36 hours for Hackanova 5.0 to detect deepfakes.
+* `Gemini API`, `Python`, `n8n`
+* [Live Demo](https://dist-theta-dusky-58.vercel.app)
+  
+* 📞 **DeskDirect (VoIP Platform):** Zero-latency peer-to-peer voice layout tailored for financial traders.
+* `WebRTC`, `Node.js`, `UDP`
+* [Live Demo](https://stupendous-hotteok-4c12a8.netlify.app/dashboard)
 
 ---
 
@@ -58,6 +71,11 @@
 
 ## 📬 Let's Connect!
 
-* **Email:** marisamaryanmenezes@gmail.com
-* **LinkedIn:** [www.linkedin.com/in/marisa-menezes-7a1312245]
-* **GitHub:** You are already here! Feel free to explore my repositories and star ⭐ the projects you like!
+<a href="mailto:marisamaryanmenezes@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button" />
+</a>[cite: 1]
+<a href="https://www.linkedin.com/in/marisa-menezes-7a1312245">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" />
+</a>
+
+* 📂 **GitHub:** You are already here! Feel free to explore my repositories and star ⭐ the projects you like!
