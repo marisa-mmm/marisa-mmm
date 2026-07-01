@@ -1,8 +1,11 @@
 # Hi there, I'm Marisa Menezes! 👋 
 
 🚀 **Aspiring Software & AI Engineer | AI Enthusiast**
+
 📍 Mumbai, Maharashtra, India
+
 💼 AI/ML Intern at Infosys Springboard & IBM / Bharat Cares
+
 🎓 Third-Year Computer Science Student at Xavier Institute of Engineering
 
 > I am a passionate developer with a strong foundation in programming, web development, and automation pipelines. I love building smart, real-world software solutions that make an impact.
@@ -73,7 +76,7 @@
 
 <a href="mailto:marisamaryanmenezes@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button" />
-</a>[cite: 1]
+</a>
 <a href="https://www.linkedin.com/in/marisa-menezes-7a1312245">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" />
 </a>
